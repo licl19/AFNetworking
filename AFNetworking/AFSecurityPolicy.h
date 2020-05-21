@@ -22,6 +22,10 @@
 #import <Foundation/Foundation.h>
 #import <Security/Security.h>
 
+
+
+
+
 typedef NS_ENUM(NSUInteger, AFSSLPinningMode) {
     AFSSLPinningModeNone,
     AFSSLPinningModePublicKey,
